@@ -5,7 +5,7 @@
 
 [<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="vibhorchaudhary | Skype" width="22px" src="https://image.flaticon.com/icons/png/512/124/124038.png" />][skype]
+[<img align="left" alt="vibhorchaudhary | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][skype]
 
 
 <br />
