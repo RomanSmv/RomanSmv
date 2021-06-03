@@ -31,7 +31,7 @@
              alt="typescript" width="40" height="40"/>
       </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg"
+        <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"
              alt="javascript" width="40" height="40"/>
       </a>
       <a href="https://git-scm.com/" target="_blank">
