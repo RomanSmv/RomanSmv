@@ -4,8 +4,7 @@
 
 
 [<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="vibhorchaudhary | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][skype]
+[<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" />][telegram]
 
 
 <br />
@@ -63,6 +62,5 @@
     </p>
 
 [linkedin]: https://www.linkedin.com/in/romansmv/
-[skype]: skype:live:razvedchik008?call
 [telegram]: https://telegram.me/romansmv8
 [cv]: https://rabota.by/resume/5ec0d7efff07455ee40039ed1f3150386e4266
