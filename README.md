@@ -3,14 +3,14 @@
 ### My contacts:
 
 
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 [<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" />][telegram]
 
 
 <br />
 <br />
 
-[<img align="left" alt="CV" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/3135/3135686.svg" />][cv]
+[<img align="left" alt="CV" width="40px" src="https://images.vexels.com/media/users/3/140030/isolated/preview/521136d25b37386f49728b93d2e4e6fa-cv-icon-by-vexels.png" />][cv]
 
 <br />
 <br />
