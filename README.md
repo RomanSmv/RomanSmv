@@ -63,5 +63,6 @@
     </p>
 
 [linkedin]: https://www.linkedin.com/in/romansmv/
+[skype]: skype:live:razvedchik008?call
 [telegram]: https://telegram.me/romansmv8
 [cv]: https://rabota.by/resume/5ec0d7efff07455ee40039ed1f3150386e4266
