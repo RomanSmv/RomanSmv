@@ -1,16 +1,67 @@
-### Hi there 👋
+<h1> Hi there, I'm Roman Somov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<!--
-**RomanSmv/RomanSmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My contacts:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="vibhorchaudhary | Skype" width="22px" src="https://image.flaticon.com/icons/png/512/124/124038.png" />][skype]
+
+
+<br />
+<br />
+
+[<img align="left" alt="CV" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/3135/3135686.svg" />][cv]
+
+<br />
+<br />
+
+### Languages and Tools:
+
+<p align="left">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"
+             width="40" height="40"/>
+      </a>
+      <a href="https://redux.js.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" alt="redux" width="40"
+             height="40"/>
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+             alt="typescript" width="40" height="40"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg"
+             alt="javascript" width="40" height="40"/>
+      </a>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+      <a href="https://storybook.js.org/docs/react/get-started/introduction" target="_blank">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/storybook-icon.svg" alt="storybook" width="40" height="40"/>
+      </a>
+      <a href="https://jestjs.io" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+      </a>
+      <a href="https://sass-lang.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40"
+             height="40"/>
+      </a>
+      <a href="http://lesscss.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg" alt="less" width="50"
+             height="40"/>
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5"
+             width="40" height="40"/>
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css3"
+             width="40" height="40"/>
+      </a>
+    </p>
+
+[linkedin]: https://www.linkedin.com/in/romansmv/
+[telegram]: https://telegram.me/romansmv8
+[cv]: https://rabota.by/resume/5ec0d7efff07455ee40039ed1f3150386e4266
